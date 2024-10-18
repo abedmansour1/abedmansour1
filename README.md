@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on nothing for now 
 - 📫 How to reach me  ...... you can't 
-- 😄 Pronouns: ...........
-- ⚡ Fun fact: once i broke the pins of a my cpu while showing it to my freinds 
+- ⚡ Fun fact: once i broke the pins of a cpu while showing it to my freinds 
 
 <!---
 abedmansour1/abedmansour1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
